@@ -1,0 +1,23 @@
+table{
+    border: 10px solid green;
+   
+ margin: 0 auto;
+ padding: 20;
+ background-color: brown;
+ font-size: smaller;
+
+
+}
+th{
+    background-color: grey;
+    text-indent: 10px;
+    
+}
+.k{
+    background-color: black;
+    color: greenyellow;
+}
+.b{
+    background-color: black;
+    color: skyblue;
+}
