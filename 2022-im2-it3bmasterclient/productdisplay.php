@@ -3,8 +3,11 @@
 ?>
 <style>
     table, th, td {
-        border: 1px solid black;
+         border: 1px solid black;
         border-collapse: collapse;
+        background: brown;
+        margin: 0px auto;
+        padding: 10px;
     }
 </style>
 
